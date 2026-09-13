@@ -15,11 +15,11 @@
                 {
                     if (rutor % 2 == 1)
                     {
-                        Console.Write("o ");
+                        Console.Write("◻︎ ");
                     }
                     else
                     {
-                        Console.Write("x ");
+                        Console.Write("◼︎ ");
                     }
                     rutor++;
                 }
